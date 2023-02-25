@@ -1,0 +1,6 @@
+* get all books & create a new book
+http://localhost:5000/api/v1/book
+
+* single book by id => get, update & delete
+http://localhost:5000/api/v1/book/${id}
+
